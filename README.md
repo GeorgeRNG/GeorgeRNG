@@ -15,7 +15,7 @@ I'm too lazy to use images or anything fancy for now.
 - Linux(ish)
 
 ## Other
-- Java: FabricMC modding
+- Java
 - Python
 - NodeJS
 - Lua
