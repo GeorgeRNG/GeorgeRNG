@@ -1,7 +1,7 @@
 # GeorgeRNG
 I'm too lazy to use images or anything fancy for now.
-- Discord: grog#8058
-- Literaly nothing else
+- Discord: georgerng
+- Literally nothing else, I don't check my email so it's not here.
 
 ## Web Developer
 ### Frontend
@@ -10,12 +10,11 @@ I'm too lazy to use images or anything fancy for now.
 - CSS,  SCSS
 - JS,   TS
 ### Backend
-- ExpressJS
+- NodeJS, Express
 - SQL(ish)
-- Linux(ish)
+- Linux(ish, it's my desktop driver)
 
 ## Other
 - Java
 - Python
-- NodeJS
 - Lua
