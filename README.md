@@ -1,6 +1,6 @@
 # GeorgeRNG
 I'm too lazy to use images or anything fancy for now.
-- Discord: georgerng
+- Discord: @georgerng
 - Literally nothing else, I don't check my email so it's not here.
 
 ## Web Developer
