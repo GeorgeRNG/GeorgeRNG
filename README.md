@@ -13,9 +13,11 @@ I'm too lazy to use images or anything fancy for now.
 - NodeJS, Express
 - SQL(ish)
 - Linux(ish, it's my desktop driver)
+- Java
 
 ## Other
 - Java
 - Python
 - Lua
 - C#(ish)
+- C(ish)
